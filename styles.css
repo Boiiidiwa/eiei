@@ -106,13 +106,16 @@ label {
 }
 
 .b {
+    margin-bottom: 25px;
+    margin-top: 20px;
     display: flex;
     align-items: center;
     gap: 20px;
 }
 
 button, input, select {
-    border-radius: 45px;
+    font-family: 'Itim', cursive;
+    border-radius: 40px;
     color: #df2e3b;
 }
 
